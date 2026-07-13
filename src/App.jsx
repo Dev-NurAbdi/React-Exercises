@@ -1,12 +1,12 @@
-import UseCard from "../Exercise 01/UseCard";
-
-
-function app(){
-  return(
+// import Layout from "./Layout";
+import Blog  from "../Exercise 02/Blog";
+function App() {
+  return (
     <>
-      <UseCard/>
+      {/* <Layout /> */}
+  <Blog/>
     </>
-    
-  )
+  );
 }
-export default app;
+
+export default App;
