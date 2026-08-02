@@ -33,6 +33,7 @@ import { useState } from "react";
 //             <input 
 //             type="text"
 //             placeholder="Enter a new to-do" 
+                                        // marwalibo is badal dhaco setInputValue waxad ku badashaa waxa userka uu qoray
 //             onChange={(event)=> setInputValue(event.target.value)}
 //             value={inputValue}
 //             />
