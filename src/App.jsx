@@ -1,14 +1,12 @@
-import CountTimerDown from "../Exercise 08/CountTimerDown";
+import { useState } from "react";
+import GitHubUserSearch from "../Exercise 09/GitHubUserSearch";
 
-
-function App() {   
-  
-
-  return (
-<>
-  <CountTimerDown/>
-</>
-  );
+function App() {
+  return(
+    <div>
+      <GitHubUserSearch/>
+    </div>
+  )
 }
 
 export default App;
