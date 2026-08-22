@@ -1,12 +1,13 @@
-import LoginForm from "../React exercise/Exercise 11/LoginForm";
-
+import { useState } from "react";
+import Counter from "../React js Exercises/Exercise 12/Counter";
 
 function App() {
-  
+ 
+
   return (
-    <>
-   <LoginForm/>
-    </>
+  <>
+  <Counter/>
+  </>
   );
 }
 
