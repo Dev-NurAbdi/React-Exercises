@@ -1,11 +1,11 @@
-import DoubleCounter from "../React js Exercises/Exercise 13/DoubleCounter";
+import MultiStepForm from "../React js Exercises/Exercise 14/MultiStepForm";
+
 function App() {
- 
-return (
-  <>
-  <DoubleCounter/>
-  </>
-)
+  return (
+    <>
+      <MultiStepForm />
+    </>
+  );
 }
 
 export default App;
